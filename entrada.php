@@ -17,9 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $error = "Todos los campos son obligatorios.";
     }
 }
-?>
-
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html>
 <head>
     <title>Registrar Entrada - ParkingPro</title>
